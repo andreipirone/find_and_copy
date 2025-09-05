@@ -17,7 +17,7 @@ A simple GUI application to search for files with specific extensions and copy t
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/your-username/find-n-copy.git](https://github.com/andreipirone/find_and_copy.git)
+git clone https://github.com/andreipirone/find_and_copy.git
 ```
 
 2. Navigate to the project directory:
